@@ -1,5 +1,5 @@
 # Nivel-2-Python #
 
-## Conteúdos aprendido##
+## Conteúdos aprendido ##
 - Listas
 - Programação orientada a objetos - POO
